@@ -29,6 +29,11 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 <img src="https://i.imgur.com/6dogeQJ.png" alt="Image in which I meant to exclude -rf to show the exit code of a failed command">
 </p>
 
+### screenshot details
+* terminal emulator: [`alacritty`][alacritty]
+* terminal colour scheme: [one dark][a-one-dark]
+* status Bar (Bottom): [tmux one dark theme][tmux-one-dark]
+* syntax highlighting: [zsh-syntax-highlighting][syntax]
 
 ## Author
 
@@ -38,4 +43,8 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 [author]:           https://github.com/redxtech
 [omz-link]:         https://github.com/robbyrussell/oh-my-zsh
 [repo-link]:        https://github.com/redxtech/zshred
+[alacritty]:        https://github.com/jwilm/alacritty
+[a-one-dark]:       https://github.com/jwilm/alacritty/wiki/Color-schemes#one-dark
+[tmux-one-dark]:    https://github.com/odedlaz/tmux-onedark-theme
+[syntax]:           https://github.com/zsh-users/zsh-syntax-highlighting
 
