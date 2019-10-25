@@ -5,7 +5,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/fish-shell/fish-shell)][fish-link]
 [![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
 
-## Install
+## install
 > There's probably a better way to do it, but this will get the job done.
 
 ```zsh
@@ -13,7 +13,7 @@ $ git clone https://github.com/redxtech/zshred.git
 $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 ```
 
-## Features
+## features
 
 * current directory shown in prompt
 * full path shown in right prompt
@@ -32,12 +32,12 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 ### screenshot details
 * terminal emulator: [`alacritty`][alacritty]
 * terminal colour scheme: [one dark][a-one-dark]
-* status Bar (Bottom): [tmux one dark theme][tmux-one-dark]
+* status bar: [tmux one dark theme][tmux-one-dark]
 * syntax highlighting: [zsh-syntax-highlighting][syntax]
 
-## Author
+## author
 
-**zshred** © [redxtech][author], Released under the [MIT][mit] License.
+**zshred** © [redxtech][author], released under the [MIT][mit] license.
 
 [mit]:              https://opensource.org/licenses/MIT
 [author]:           https://github.com/redxtech
