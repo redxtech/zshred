@@ -2,7 +2,7 @@
 > A theme for zsh via [oh-my-zsh][omz-link].
 
 [![MIT License](https://img.shields.io/github/license/redxtech/zshred)](/LICENSE)
-[![zsh-shell](https://img.shields.io/github/v/release/zsh-users/zsh?label=zsh)][zsh-link]
+[![zsh](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=zsh)][zsh-link]
 [![oh-my-zsh](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
 
 ## install
