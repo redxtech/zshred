@@ -42,8 +42,8 @@ PROMPT2='%{$fg[red]%}\>%{$reset_color%} '
 
 # right prompt
 RPROMPT='\
-%{$fg[blue]%}[%~]
-$(return_code)
+%{$fg[blue]%}[%~]\
+$(return_code)\
 %{$fg[cyan]%}[$(date +%H:%M)]\
 %{$reset_color%}'
 
