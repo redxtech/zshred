@@ -23,7 +23,7 @@ $ antigen theme redxtech/zshred themes/zshred
 ## Screenshot
 
 <p align="center">
-<img src="https://i.imgur.com/H9crBDc.png" alt="Image in which I meant to exclude -rf to show the exit code of a failed command">
+<img src="https://i.imgur.com/6dogeQJ.png" alt="Image in which I meant to exclude -rf to show the exit code of a failed command">
 </p>
 
 
