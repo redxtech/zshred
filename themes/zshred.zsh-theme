@@ -41,7 +41,7 @@ $(prompt_whoami)\
 PROMPT2='%{$fg[red]%}\>%{$reset_color%} '
 
 # right prompt
-RPS1='\
+RPROMPT='\
 %{$fg[blue]%}[%~]
 $(return_code)
 %{$fg[cyan]%}[$(date +%H:%M)]\
