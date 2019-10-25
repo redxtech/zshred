@@ -2,8 +2,8 @@
 > A theme for zsh via [oh-my-zsh][omz-link].
 
 [![MIT License](https://img.shields.io/github/license/redxtech/zshred)](/LICENSE)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fish-shell/fish-shell)][fish-link]
-[![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
+[![zsh-shell](https://img.shields.io/github/v/release/zsh-users/zsh?label=zsh)][zsh-link]
+[![oh-my-zsh](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
 
 ## install
 > There's probably a better way to do it, but this will get the job done.
@@ -41,7 +41,7 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 
 [mit]:              https://opensource.org/licenses/MIT
 [author]:           https://github.com/redxtech
-[fish-link]:        https://github.com/fish-shell/fish-shell
+[zsh-link]:         https://github.com/zsh-users/zsh
 [omz-link]:         https://github.com/robbyrussell/oh-my-zsh
 [repo-link]:        https://github.com/redxtech/zshred
 [alacritty]:        https://github.com/jwilm/alacritty
