@@ -41,6 +41,7 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 
 [mit]:              https://opensource.org/licenses/MIT
 [author]:           https://github.com/redxtech
+[fish-link]:        https://github.com/fish-shell/fish-shell
 [omz-link]:         https://github.com/robbyrussell/oh-my-zsh
 [repo-link]:        https://github.com/redxtech/zshred
 [alacritty]:        https://github.com/jwilm/alacritty
