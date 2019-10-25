@@ -1,26 +1,29 @@
 # [zshred][repo-link]
-> A theme for zsh via [antigen][antigen-link].
+> A theme for zsh via [oh-my-zsh][omz-link].
 
-[![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
-
+[![MIT License](https://img.shields.io/github/license/redxtech/zshred)](/LICENSE)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/fish-shell/fish-shell)][fish-link]
+[![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
 
 ## Install
+> There's probably a better way to do it, but this will get the job done.
 
 ```zsh
-$ antigen theme redxtech/zshred themes/zshred
+$ git clone https://github.com/redxtech/zshred.git
+$ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 ```
 
 ## Features
 
-* Current Directory shown in prompt.
-* Full path shown in right prompt.
-* Git branch and status shown.
-* Show exit status in right prompt.
-* Show current time in right prompt.
-* Set title to current prompt.
-* More!
+* current directory shown in prompt
+* full path shown in right prompt
+* git branch and status shown
+* exit status shown in right prompt
+* current time shown in right prompt
+* title set to current prompt
+* even more!
 
-## Screenshot
+## screenshot
 
 <p align="center">
 <img src="https://i.imgur.com/6dogeQJ.png" alt="Image in which I meant to exclude -rf to show the exit code of a failed command">
@@ -31,8 +34,8 @@ $ antigen theme redxtech/zshred themes/zshred
 
 **zshred** © [redxtech][author], Released under the [MIT][mit] License.
 
-[mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/redxtech
-[antigen-link]:   https://github.com/zsh-users/antigen
-[repo-link]:      https://github.com/redxtech/zshred
-[license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
+[mit]:              https://opensource.org/licenses/MIT
+[author]:           https://github.com/redxtech
+[omz-link]:         https://github.com/robbyrussell/oh-my-zsh
+[repo-link]:        https://github.com/redxtech/zshred
+
