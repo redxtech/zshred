@@ -1,5 +1,5 @@
 # [zshred][repo-link]
-> A theme for [antigen][antigen-link].
+> A theme for zsh via [antigen][antigen-link].
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 
