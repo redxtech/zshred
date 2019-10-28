@@ -2,7 +2,6 @@
 > A theme for zsh via [oh-my-zsh][omz-link].
 
 [![MIT License](https://img.shields.io/github/license/redxtech/zshred)](/LICENSE)
-[![zsh](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=zsh)][zsh-link]
 [![oh-my-zsh](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh?label=oh-my-zsh)][omz-link]
 
 ## install
@@ -41,7 +40,6 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 
 [mit]:              https://opensource.org/licenses/MIT
 [author]:           https://github.com/redxtech
-[zsh-link]:         https://github.com/zsh-users/zsh
 [omz-link]:         https://github.com/robbyrussell/oh-my-zsh
 [repo-link]:        https://github.com/redxtech/zshred
 [alacritty]:        https://github.com/jwilm/alacritty
