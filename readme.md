@@ -50,6 +50,6 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 [a-one-dark]:       https://github.com/jwilm/alacritty/wiki/Color-schemes#one-dark
 [tmux-one-dark]:    https://github.com/odedlaz/tmux-onedark-theme
 [syntax]:           https://github.com/zsh-users/zsh-syntax-highlighting
-[p10k-link]         https://github.com/romkatv/powerlevel10k
-[dotfiles-link]     https://github.com/redxtech/dotfiles/blob/master/.p10k.zsh
+[p10k-link]:        https://github.com/romkatv/powerlevel10k
+[dotfiles-link]:    https://github.com/redxtech/dotfiles/blob/master/.p10k.zsh
 
