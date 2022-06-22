@@ -51,5 +51,5 @@ $ cp zshred/themes/zshred.zsh-theme $ZSH_CUSTOM/themes/
 [tmux-one-dark]:    https://github.com/odedlaz/tmux-onedark-theme
 [syntax]:           https://github.com/zsh-users/zsh-syntax-highlighting
 [p10k-link]:        https://github.com/romkatv/powerlevel10k
-[dotfiles-link]:    https://github.com/redxtech/dotfiles/blob/master/.p10k.zsh
+[dotfiles-link]:    https://github.com/redxtech/dotfiles/blob/master/.config/zsh/p10k.zsh
 
